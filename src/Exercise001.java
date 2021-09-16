@@ -8,6 +8,6 @@ public class Exercise001 {
         - input is always non-negative
      */
     public static int solution(int n){
-        return Integer.toBinaryString(n).replace("0","").length();
+        return Integer.bitCount(n);
     }
 }
