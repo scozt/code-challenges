@@ -2,7 +2,7 @@ public class Exercise010 {
 
     /*
     exercise
-    - function takes a a string of words
+    - function takes a string of words
     - returns the length of the shortest word(s)
     - string will never be empty
     - not need to account for different data types
